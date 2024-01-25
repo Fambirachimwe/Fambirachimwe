@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tatenda Fambirachimwe
+- 👋 Hi, I’m Fambirachimwe
 - 👀 I’m interested in developing applications that solve our daily challenges and developing business automation software
 - 🌱 I’m currently learning System design and DevOps 
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me .. send me an email on t.svaku@gmail.com
+
 
 <!---
 Fambirachimwe/Fambirachimwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
